@@ -1,6 +1,7 @@
 - name: data types
   hosts: local
   connection: local
+  # Object or Map
   vars:
     Course: "DevOps with AWS" # string
     Duration: 120 # number
